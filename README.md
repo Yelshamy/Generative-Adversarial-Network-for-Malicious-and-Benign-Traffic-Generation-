@@ -1,0 +1,1 @@
+# Generative-Adversarial-Network-for-Malicious-and-Benign-Traffic-Generation-
